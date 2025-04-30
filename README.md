@@ -1,0 +1,1 @@
+Im plannig in creating a website with a text message widget that can be open on chrome browser and instal as an app on cell phone devices. Theres a few bugs Im currently working on and should have it up and running soon! Hopefully!
